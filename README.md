@@ -10,6 +10,7 @@ functionality per role.
 ## Login credentials
 
 | Role | Email | Password |
+
 | --- | --- | --- |
 | System Administrator | `admin@storeratings.com` | `Admin@12345` |
 | Normal User | `aarav.sharma@example.com` | `User@12345` |
